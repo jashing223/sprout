@@ -1,0 +1,9 @@
+todo_list
+picture
+currency
+covid
+weather
+guess
+calculator
+dis_xkcd
+image
